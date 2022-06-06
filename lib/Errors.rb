@@ -14,3 +14,6 @@ puts "hi"
 # Type error
 # When you try and do a mathematical operation on two objects of a different type
 1+"2"
+
+# Division errors-occurs when a given number is divided by 0
+6/0
