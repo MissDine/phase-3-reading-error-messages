@@ -4,3 +4,9 @@
 hello_world
 # That is considered a name error because it is not defined
 let hello_wolrd = "Enid"
+
+# Syntax error-errors which result from incorrect syntax
+2.times do
+puts "hi"
+# without the end key word this is not considered correct hence a syntax error may occur
+# end
