@@ -10,3 +10,7 @@ let hello_wolrd = "Enid"
 puts "hi"
 # without the end key word this is not considered correct hence a syntax error may occur
 # end
+
+# Type error
+# When you try and do a mathematical operation on two objects of a different type
+1+"2"
